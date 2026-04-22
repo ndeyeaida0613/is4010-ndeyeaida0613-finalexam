@@ -11,7 +11,7 @@
 
 | Week| Status| Topic|
 |-----|-------|------|
-| 16 | ![Final](../../actions/workflows/final.yml/badge.svg) | Budget |
+| 16 | ![Final](../../actions/workflows/finalexam.yml/badge.svg) | Budget |
 
 ---
 ## Overview
